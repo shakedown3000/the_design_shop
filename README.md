@@ -28,4 +28,3 @@ Explore the live demo of "The Design Shop" [here](https://shakedown3000.github.i
 This project demonstrates responsive design principles and utilizes SCSS for enhanced stylesheet management.
 
 ![Screenshot 2](/assets/The_Design_Shop_Screenshot_2.png)
-# the_design_shop
